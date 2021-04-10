@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\bin\Debug\netcoreapp3.1\LiveDemo.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\bin\Debug\netcoreapp3.1\LiveDemo.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\bin\Debug\netcoreapp3.1\LiveDemo.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\bin\Debug\netcoreapp3.1\LiveDemo.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\bin\Debug\netcoreapp3.1\LiveDemo.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\bin\Debug\netcoreapp3.1\LiveDemo.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.csprojAssemblyReference.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\LiveDemo\obj\Debug\netcoreapp3.1\LiveDemo.genruntimeconfig.cache

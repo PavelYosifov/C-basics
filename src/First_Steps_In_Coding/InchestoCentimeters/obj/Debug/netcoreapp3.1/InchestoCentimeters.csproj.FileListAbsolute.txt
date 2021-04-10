@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.csprojAssemblyReference.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.genruntimeconfig.cache

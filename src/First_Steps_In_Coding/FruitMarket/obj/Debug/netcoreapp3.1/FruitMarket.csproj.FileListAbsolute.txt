@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+GIT:
+git init
+git status
+git add <file name>
+git add .
+git commit -m "Enter message here"
+git commit -a -comiptva всички changes по файловете
+git commit -am "" - да добавим и съобщение
+git clone https://github.com/pavkata12/assa.git - paste ur link here
+git video:https://www.youtube.com/watch?v=n60kNS09ZDs&ab_channel=SoftwareUniversity%28SoftUni%29
+
+C#:
+c#-right click on project search for "set as startup project"
+string input=Console.ReadLine();-read string;
+
+string input=Console.ReadLine();
+int num=int.Parse(input)-read number;
+int num=int.Parse(Console.Readline())-read number;
+
+Console.WriteLine($"Hello, {name}! Your age is {age}.");-изход с интерполация или случайно да не забравим някой знак това е по-лесно вместо 
+слагането на кавички!!!
+Console.WriteLine()/Write()-write line;
+Console.WriteLine(input % input);-остатък т.н проверка за четност

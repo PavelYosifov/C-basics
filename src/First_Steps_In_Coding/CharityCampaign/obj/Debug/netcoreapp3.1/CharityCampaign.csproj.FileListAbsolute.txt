@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csprojAssemblyReference.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.genruntimeconfig.cache

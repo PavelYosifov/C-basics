@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.genruntimeconfig.cache

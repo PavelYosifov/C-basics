@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.genruntimeconfig.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csprojAssemblyReference.cache

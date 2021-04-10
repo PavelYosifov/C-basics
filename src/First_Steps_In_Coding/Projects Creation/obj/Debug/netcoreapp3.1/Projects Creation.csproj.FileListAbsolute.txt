@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.genruntimeconfig.cache

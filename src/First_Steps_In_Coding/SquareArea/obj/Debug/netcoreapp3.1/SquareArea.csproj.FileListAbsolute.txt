@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csprojAssemblyReference.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache

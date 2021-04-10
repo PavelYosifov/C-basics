@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.genruntimeconfig.cache

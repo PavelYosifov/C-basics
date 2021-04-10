@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.genruntimeconfig.cache

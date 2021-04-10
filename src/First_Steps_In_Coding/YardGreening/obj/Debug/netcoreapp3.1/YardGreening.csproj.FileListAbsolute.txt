@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.genruntimeconfig.cache

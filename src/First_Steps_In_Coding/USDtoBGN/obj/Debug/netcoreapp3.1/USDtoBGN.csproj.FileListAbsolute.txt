@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.genruntimeconfig.cache

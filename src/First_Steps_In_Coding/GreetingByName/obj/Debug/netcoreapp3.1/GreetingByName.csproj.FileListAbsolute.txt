@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.genruntimeconfig.cache

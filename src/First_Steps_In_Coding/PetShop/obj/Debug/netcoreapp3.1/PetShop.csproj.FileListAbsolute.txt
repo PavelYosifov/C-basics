@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.csprojAssemblyReference.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache

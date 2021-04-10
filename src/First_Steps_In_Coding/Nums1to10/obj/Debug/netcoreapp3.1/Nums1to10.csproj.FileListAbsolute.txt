@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.genruntimeconfig.cache

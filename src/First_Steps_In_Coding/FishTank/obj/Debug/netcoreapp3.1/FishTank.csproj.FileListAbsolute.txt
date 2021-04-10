@@ -1,0 +1,12 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

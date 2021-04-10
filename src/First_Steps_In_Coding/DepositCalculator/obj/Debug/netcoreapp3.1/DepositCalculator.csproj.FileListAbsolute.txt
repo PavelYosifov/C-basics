@@ -1,0 +1,13 @@
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.exe
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.deps.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.dev.json
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csprojAssemblyReference.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfoInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfo.cs
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.CoreCompileInputs.cache
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.dll
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.pdb
+D:\Soft-Uni\HW\C#\Basics\src\First_Steps_In_Coding\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.genruntimeconfig.cache
